@@ -1,4 +1,4 @@
-# 鷲尾伶菜 – Happy Ever After
+# 鷲尾伶菜 – Happy Ever After（feat. 由薫）
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
