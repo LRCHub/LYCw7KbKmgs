@@ -2,15 +2,15 @@
   "version": 1,
   "base_track": "Happy Ever After（feat. 由薫）",
   "base_artist": "鷲尾伶菜",
-  "createdAt": "2026-03-26T08:54:18.088142Z",
+  "createdAt": "2026-04-01T09:26:51.628234Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "Happy Ever After feat. 由薫",
-      "artist": "鷲尾伶菜",
+      "title": "Happy Ever After (feat.由薫)",
+      "artist": "鷲尾伶菜 feat. 由薫",
       "has_synced": false,
-      "path": "select/pl_01_Happy_Ever_After_feat._由薫_鷲尾伶菜.txt"
+      "path": "select/pl_01_Happy_Ever_After_(feat.由薫)_鷲尾伶菜_feat._由薫.txt"
     }
   ]
 }
